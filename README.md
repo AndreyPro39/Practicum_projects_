@@ -1,2 +1,2 @@
-# refactored-winner
+# Practicum_projects
 проекты по базовому питону
